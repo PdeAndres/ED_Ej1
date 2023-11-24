@@ -2,7 +2,7 @@
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
-		System.out.println("Hola mundo");
+		System.out.println("Pablo de Andrés Olano");
 	}
 
 }
